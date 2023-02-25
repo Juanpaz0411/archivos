@@ -27,5 +27,4 @@ joblib
 sklearn
 keras
 opencv-python
-qutip
-
+qutip 
